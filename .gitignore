@@ -1,3 +1,102 @@
 # Project exclude paths
 /.gradle/
 /build/
+/.idea/.gitignore
+/run/saves/New World/playerdata/0d3f56a3-2b3f-38d6-a849-9d61b8f97a5c.dat
+/run/saves/New World/playerdata/0d3f56a3-2b3f-38d6-a849-9d61b8f97a5c.dat_old
+/run/saves/New World/advancements/0d3f56a3-2b3f-38d6-a849-9d61b8f97a5c.json
+/run/saves/New World/stats/0d3f56a3-2b3f-38d6-a849-9d61b8f97a5c.json
+/run/logs/2023-12-27-1.log.gz
+/run/logs/2023-12-27-2.log.gz
+/run/logs/2023-12-27-3.log.gz
+/run/logs/2023-12-27-4.log.gz
+/run/logs/2023-12-27-5.log.gz
+/run/logs/2023-12-28-1.log.gz
+/run/logs/2023-12-28-2.log.gz
+/run/logs/2023-12-28-3.log.gz
+/run/logs/2023-12-28-4.log.gz
+/run/logs/2023-12-28-5.log.gz
+/run/logs/2023-12-28-6.log.gz
+/run/saves/New World/playerdata/5098f6b6-5b18-3f91-8634-ca13195fea22.dat
+/run/saves/New World/playerdata/5098f6b6-5b18-3f91-8634-ca13195fea22.dat_old
+/run/saves/New World/advancements/5098f6b6-5b18-3f91-8634-ca13195fea22.json
+/run/saves/New World/stats/5098f6b6-5b18-3f91-8634-ca13195fea22.json
+/run/saves/New World/playerdata/664106cb-7687-35a3-9c4d-4c073a16c423.dat
+/run/saves/New World/playerdata/664106cb-7687-35a3-9c4d-4c073a16c423.dat_old
+/run/saves/New World/advancements/664106cb-7687-35a3-9c4d-4c073a16c423.json
+/run/saves/New World/stats/664106cb-7687-35a3-9c4d-4c073a16c423.json
+/run/saves/New World/playerdata/af1e0784-3719-3271-9d4b-734c7d03d2c7.dat
+/run/saves/New World/playerdata/af1e0784-3719-3271-9d4b-734c7d03d2c7.dat_old
+/run/saves/New World/advancements/af1e0784-3719-3271-9d4b-734c7d03d2c7.json
+/run/saves/New World/stats/af1e0784-3719-3271-9d4b-734c7d03d2c7.json
+/run/saves/New World/playerdata/b89d12f3-1740-34c6-919e-a2949a3e81fe.dat
+/run/saves/New World/playerdata/b89d12f3-1740-34c6-919e-a2949a3e81fe.dat_old
+/run/saves/New World/advancements/b89d12f3-1740-34c6-919e-a2949a3e81fe.json
+/run/saves/New World/stats/b89d12f3-1740-34c6-919e-a2949a3e81fe.json
+/run/saves/New World/playerdata/b6529468-5313-3ea4-bc60-3e6ea6cabccd.dat
+/run/saves/New World/playerdata/b6529468-5313-3ea4-bc60-3e6ea6cabccd.dat_old
+/run/saves/New World/advancements/b6529468-5313-3ea4-bc60-3e6ea6cabccd.json
+/run/saves/New World/stats/b6529468-5313-3ea4-bc60-3e6ea6cabccd.json
+/run/saves/New World/playerdata/c71f5be7-d736-3c74-8462-9246a49acdfd.dat
+/run/saves/New World/playerdata/c71f5be7-d736-3c74-8462-9246a49acdfd.dat_old
+/run/saves/New World/advancements/c71f5be7-d736-3c74-8462-9246a49acdfd.json
+/run/saves/New World/stats/c71f5be7-d736-3c74-8462-9246a49acdfd.json
+/.idea/compiler.xml
+/run/crash-reports/crash-2023-12-27_20.47.58-client.txt
+/run/saves/New World/playerdata/d68565a6-5a92-34fc-aa46-31604c250535.dat
+/run/saves/New World/playerdata/d68565a6-5a92-34fc-aa46-31604c250535.dat_old
+/run/saves/New World/advancements/d68565a6-5a92-34fc-aa46-31604c250535.json
+/run/saves/New World/stats/d68565a6-5a92-34fc-aa46-31604c250535.json
+/run/logs/debug.log
+/run/logs/debug-1.log.gz
+/run/logs/debug-2.log.gz
+/run/logs/debug-3.log.gz
+/run/logs/debug-4.log.gz
+/run/logs/debug-5.log.gz
+/run/saves/New World/playerdata/eb502461-a683-36bf-bb2e-dad6c2496501.dat
+/run/saves/New World/playerdata/eb502461-a683-36bf-bb2e-dad6c2496501.dat_old
+/run/saves/New World/advancements/eb502461-a683-36bf-bb2e-dad6c2496501.json
+/run/saves/New World/stats/eb502461-a683-36bf-bb2e-dad6c2496501.json
+/run/saves/New World/playerdata/ed5fc327-7b3a-37aa-a9cf-7e33fcf19740.dat
+/run/saves/New World/playerdata/ed5fc327-7b3a-37aa-a9cf-7e33fcf19740.dat_old
+/run/saves/New World/advancements/ed5fc327-7b3a-37aa-a9cf-7e33fcf19740.json
+/run/saves/New World/stats/ed5fc327-7b3a-37aa-a9cf-7e33fcf19740.json
+/run/data/fabricDefaultResourcePacks.dat
+/.idea/gradle.xml
+/gradle/wrapper/gradle-wrapper.properties
+/run/saves/New World/icon.png
+/run/config/fabric/indigo-renderer.properties
+/.idea/jarRepositories.xml
+/run/logs/latest.log
+/run/saves/New World/level.dat
+/run/saves/New World/level.dat_old
+/.idea/runConfigurations/Minecraft_Client.xml
+/.idea/runConfigurations/Minecraft_Server.xml
+/.idea/misc.xml
+/run/.fabric/processedMods/mixinextras-0.3.2-f9ae6eeeafe4ec19.jar
+/run/config/modmenu.json
+/run/mods/modmenu-7.0.1.jar
+/run/.fabric/processedMods/modmenu-7.0.1-64b5720b4b825f21.jar
+/.idea/modules.xml
+/run/options.txt
+/run/saves/New World/entities/r.0.0.mca
+/run/saves/New World/poi/r.0.0.mca
+/run/saves/New World/region/r.0.0.mca
+/run/saves/New World/entities/r.0.-1.mca
+/run/saves/New World/poi/r.0.-1.mca
+/run/saves/New World/region/r.0.-1.mca
+/run/saves/New World/entities/r.-1.0.mca
+/run/saves/New World/poi/r.-1.0.mca
+/run/saves/New World/region/r.-1.0.mca
+/run/saves/New World/entities/r.-1.-1.mca
+/run/saves/New World/poi/r.-1.-1.mca
+/run/saves/New World/region/r.-1.-1.mca
+/run/saves/New World/data/raids.dat
+/run/saves/New World/DIM-1/data/raids.dat
+/run/saves/New World/DIM1/data/raids_end.dat
+/run/saves/New World/data/random_sequences.dat
+/run/saves/New World/session.lock
+/.idea/modules/testModForMinecraft.main.iml
+/.idea/modules/testModForMinecraft.test.iml
+/run/usercache.json
+/.idea/vcs.xml
