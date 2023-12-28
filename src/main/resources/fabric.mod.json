@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "waysoonmod",
+  "version": "${version}",
+  "name": "Waysoon's mod",
+  "description": "This is my first and test mod for minecraft on fabric",
+  "authors": ["Waysoon_"],
+  "icon": "assets/waysoonmod/icon.png",
+  "license": "MIT",
+  "entrypoints": {
+    "main": [
+      "org.waysoonprogramms.testmodforminecraft.TestModForMinecraft"
+    ]
+  },
+  "mixins": [
+    "testmodforminecraft.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
