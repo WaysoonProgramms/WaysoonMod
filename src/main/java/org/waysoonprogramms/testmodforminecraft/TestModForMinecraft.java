@@ -1,9 +1,11 @@
 package org.waysoonprogramms.testmodforminecraft;
 
 import net.fabricmc.api.ModInitializer;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import org.waysoonprogramms.testmodforminecraft.Blocks.Blocks;
 import org.waysoonprogramms.testmodforminecraft.Items.Items;
 import org.waysoonprogramms.testmodforminecraft.Items.ItemsGroups;
 
@@ -13,7 +15,9 @@ public class TestModForMinecraft implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        Items.register();
         ItemsGroups.register();
+
+        Items.register();
+        Blocks.register();
     }
 }

@@ -100,3 +100,8 @@
 /.idea/modules/testModForMinecraft.test.iml
 /run/usercache.json
 /.idea/vcs.xml
+/run/logs/2023-12-30-1.log.gz
+/run/logs/2023-12-30-2.log.gz
+/run/.fabric/processedMods/sodium-0.4.10+build.27-64b5720b4b825f21.jar
+/run/config/sodium-mixins.properties
+/run/config/sodium-options.json

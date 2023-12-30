@@ -1,12 +1,15 @@
 package org.waysoonprogramms.testmodforminecraft.Items;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
+
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
+
+import org.waysoonprogramms.testmodforminecraft.Blocks.Blocks;
 import org.waysoonprogramms.testmodforminecraft.TestModForMinecraft;
 
 public class ItemsGroups {
@@ -16,10 +19,11 @@ public class ItemsGroups {
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.waysoon_mod"))
                     .icon(() -> new ItemStack(Items.WAYSOON)).entries((displayContext, entries) -> {
                         entries.add(Items.RUBY);
+                        entries.add(Blocks.RUBY_BLOCK);
                     }).build());
 
     public static void register() {
-        TestModForMinecraft.LOGGER.debug("Register mod item groups");
+        TestModForMinecraft.LOGGER.info("Register ItemsGroups for " + TestModForMinecraft.MOD_ID);
     }
 
 }

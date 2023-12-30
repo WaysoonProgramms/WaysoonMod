@@ -5,6 +5,9 @@
   "name": "Waysoon's mod",
   "description": "This is my first and test mod for minecraft on fabric",
   "authors": ["Waysoon_"],
+  "contact": {
+    "sources": "https://github.com/WaysoonProgramms/WaysoonMod"
+  },
   "icon": "assets/waysoonmod/icon.png",
   "license": "MIT",
   "entrypoints": {

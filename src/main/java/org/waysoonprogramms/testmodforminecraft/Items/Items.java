@@ -3,6 +3,7 @@ package org.waysoonprogramms.testmodforminecraft.Items;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
+
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
 import net.minecraft.registry.Registries;
@@ -24,7 +25,7 @@ public class Items {
     }
 
     public static void register() {
-        TestModForMinecraft.LOGGER.debug("Registering mod items");
+        TestModForMinecraft.LOGGER.info("Registering Items for " + TestModForMinecraft.MOD_ID);
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(Items::addItemsToIngredientTabItemGroup);
     }
 }
